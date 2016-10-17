@@ -3,8 +3,8 @@
 	<channel>
 		<title>Inna Posts</title>
 		<description>Inna Jekyll Blog</description>
-		<link>http://inna.kokobok.local/</link>
-		<atom:link href="http://inna.kokobok.local/feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://inna.kokobok.host/</link>
+		<atom:link href="http://inna.kokobok.host/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>myFirstPost - AutoCAD on your netbook</title>
@@ -13,8 +13,8 @@
 &lt;h3 id=&quot;autocad-optimization&quot;&gt;AutoCAD Optimization&lt;/h3&gt;
 </description>
 				<pubDate>Mon, 17 Oct 2016 00:00:00 -0400</pubDate>
-				<link>http://inna.kokobok.local/autocad/2016/10/17/AutoCAD-on-your-Netboot.html</link>
-				<guid isPermaLink="true">http://inna.kokobok.local/autocad/2016/10/17/AutoCAD-on-your-Netboot.html</guid>
+				<link>http://inna.kokobok.host/autocad/2016/10/17/AutoCAD-on-your-Netboot.html</link>
+				<guid isPermaLink="true">http://inna.kokobok.host/autocad/2016/10/17/AutoCAD-on-your-Netboot.html</guid>
 			</item>
 		
 			<item>
@@ -24,8 +24,8 @@
 &lt;h3 id=&quot;arcgis-post&quot;&gt;ArcGIS Post&lt;/h3&gt;
 </description>
 				<pubDate>Mon, 17 Oct 2016 00:00:00 -0400</pubDate>
-				<link>http://inna.kokobok.local/arcgis/2016/10/17/ArcGIS-Desktop.html</link>
-				<guid isPermaLink="true">http://inna.kokobok.local/arcgis/2016/10/17/ArcGIS-Desktop.html</guid>
+				<link>http://inna.kokobok.host/arcgis/2016/10/17/ArcGIS-Desktop.html</link>
+				<guid isPermaLink="true">http://inna.kokobok.host/arcgis/2016/10/17/ArcGIS-Desktop.html</guid>
 			</item>
 		
 	</channel>
